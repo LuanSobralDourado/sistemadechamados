@@ -6,19 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Devmix Bootstrap 4 Admin Template">
     <title>Home</title>
-    <link rel="shortcut icon" type="image/x-icon" href="../images/favicon.png">
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
-    <link rel="stylesheet" href="../css/style.css">
-    <link href="../css/owl.carousel.min.css" rel="stylesheet" type="text/css">
-    <link href="../css/owl.theme.default.min.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="../css/font-awesome.min.css">
-    <link rel="stylesheet" href="../css/themify-icons.css">
-    <link href="../css/ionicons.min.css" rel="stylesheet" />
-    <link href="../css/et-line.css" rel="stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="../../images/favicon.png">
+    <link rel="stylesheet" href="../../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link href="../../css/owl.carousel.min.css" rel="stylesheet" type="text/css">
+    <link href="../../css/owl.theme.default.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="../../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../css/themify-icons.css">
+    <link href="../../css/ionicons.min.css" rel="stylesheet" />
+    <link href="../../css/et-line.css" rel="stylesheet" />
     <link href="css/feather.css" rel="stylesheet" />
-    <script src="../js/modernizr-2.8.3.min.js"></script>
-    <link rel="stylesheet" href="../css/metisMenu.css">
-    <link rel="stylesheet" href="../css/slicknav.min.css">
+    <script src="../../js/modernizr-2.8.3.min.js"></script>
+    <link rel="stylesheet" href="../../css/metisMenu.css">
+    <link rel="stylesheet" href="../../css/slicknav.min.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900"
         rel="stylesheet">
 </head>
@@ -27,7 +27,7 @@
         <div class="sidebar-menu light-sidebar">
             <div class="sidebar-header">
                 <div class="logo">
-                    <a href="index.html"><img src="../images/logo-dark.svg" alt="logo"></a>
+                    <a href="index.html"><img src="../../images/logo-dark.svg" alt="logo"></a>
                 </div>
             </div>
             <div class="main-menu">
@@ -59,7 +59,7 @@
             <div class="header-area">
                 <div class="row align-items-center">
                     <div class="mobile-logo d_none_lg">
-                        <a href="#"><img src="../images/mobile-logo.svg" alt="logo"></a>
+                        <a href="#"><img src="../../images/mobile-logo.svg" alt="logo"></a>
                     </div>
                     <div class="col-md-6 d_none_sm d-flex align-items-center">
                         <div class="nav-btn pull-left">
@@ -88,7 +88,7 @@
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                         <a class="dropdown-item" href="#"><i class="ti-user"></i> Perfil</a>
 
-                                        <a class="dropdown-item" href="../index.html"><i
+                                        <a class="dropdown-item" href="../../index.html"><i
                                                 class="ti-power-off"></i>Sair</a>
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@
                 </div>
             </div>
             <div class="main-content-inner">
-                <P align="center">CONTAINER</P>
+                
             </div>
         </div>
         <footer>
@@ -107,13 +107,13 @@
             </div>
         </footer>
     </div>
-    <script src="../js/jquery.min.js"></script>
-    <script src="../js/popper.min.js"></script>
-    <script src="../js/bootstrap.min.js"></script>
-    <script src="../js/owl.carousel.min.js"></script>
-    <script src="../js/metisMenu.min.js"></script>
-    <script src="../js/jquery.slimscroll.min.js"></script>
-    <script src="../js/jquery.slicknav.min.js"></script>
-    <script src="../js/main.js"></script>
+    <script src="../../js/jquery.min.js"></script>
+    <script src="../../js/popper.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/owl.carousel.min.js"></script>
+    <script src="../../js/metisMenu.min.js"></script>
+    <script src="../../js/jquery.slimscroll.min.js"></script>
+    <script src="../../js/jquery.slicknav.min.js"></script>
+    <script src="../../js/main.js"></script>
 </body>
 </html>
